@@ -1,7 +1,7 @@
 - 👋 Peace to you all, this is @AshiqueAhmedKhair
-- 👀 interested in DevOps, DevSecOps, GitOps, Data Engineering
-- 🌱 I’m currently learning DevOps MLOps, AI Agent, MCP
-- 💞️ I’m looking to collaborate on DevOps, Data Engineering, Data Governance & Security
+- 👀 Interested in 'World of Computing' and related field of study, 
+- 🌱 Learning and performimg DevOps, DevSecOps, Data Engineering
+- 💞️ Data Governance & Data Security
 - 📫 How to reach me ashiqueahmedkhair@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: (https://youtube.com/shorts/Bd1xafW13Wc?si=jL_2MqTzub8OkabZ)

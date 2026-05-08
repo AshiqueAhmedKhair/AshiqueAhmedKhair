@@ -1,7 +1,7 @@
 - 👋 Peace to you all, this is @AshiqueAhmedKhair
 - 👀 Interested in 'World of Computing' and related field of study, 
-- 🌱 Learning and performimg DevOps, DevSecOps, Data Engineering
-- 💞️ Data Governance & Data Security
+- 🌱 Learning and performing DevOps, DevSecOps, Data Engineering and more
+- 💞️ Looking forward into Data Governance & Data Security
 - 📫 How to reach me ashiqueahmedkhair@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: (https://youtube.com/shorts/Bd1xafW13Wc?si=jL_2MqTzub8OkabZ)
